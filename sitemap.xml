@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://selva-minisha18.github.io/tea-shop/</loc>
+  <lastmod>2026-06-30T08:45:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://selva-minisha18.github.io/tea-shop/index.html</loc>
+  <lastmod>2026-06-30T08:45:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://selva-minisha18.github.io/tea-shop/about.html</loc>
+  <lastmod>2026-06-30T08:45:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://selva-minisha18.github.io/tea-shop/contact.html</loc>
+  <lastmod>2026-06-30T08:45:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://selva-minisha18.github.io/tea-shop/blog.html</loc>
+  <lastmod>2026-06-30T08:45:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://selva-minisha18.github.io/tea-shop/product.html</loc>
+  <lastmod>2026-06-30T08:45:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
